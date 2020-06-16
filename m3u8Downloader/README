@@ -1,0 +1,38 @@
+m3u8 Downloader/Converter
+=====================================================================
+
+Requirements
+=====================================================================
+
+* java 
+* ffmpeg
+
+Installation
+=====================================================================
+
+-Download ffmpeg https://ffmpeg.org/download.html#build-windows
+-Extrack all the files in a folder named "FFmpeg" and copy it on C:\
+-Open the Start Search, type in “env”, and choose “Edit the system environment variables”
+-Click the “Environment Variables…” button
+-Under the “System Variables” section (the lower half), find the row with “Path” in the first column, and click edit
+-The “Edit environment variable” UI will appear. Here, 
+ you can click “New” and type "C:\FFmpeg\bin"
+ -Run the command "ffmpeg -version" on elevated CMD to check if everything is working
+ 
+ -you can download the project and run it or download the jar file
+
+
+Usage
+=====================================================================
+-open the jar file
+-click on "open dir"
+-navigate to the folder where are placed your m3u8 files
+-click open on the folder
+-convert
+-the converted files will be placed in the folder of the jar file
+
+
+Credits
+=====================================================================
+
+* Sheriyar Shakeel
