@@ -152,7 +152,7 @@ public class Home {
 		body.add(convertButton);
 		
 		
-		JButton btnOpenDirfile = new JButton("OPEN DIR/FILE");
+		JButton btnOpenDirfile = new JButton("OPEN DIR");
 		btnOpenDirfile.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
