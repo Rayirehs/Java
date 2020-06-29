@@ -19,7 +19,7 @@ Installation
  you can click “New” and type "C:\FFmpeg\bin"
  -Run the command "ffmpeg -version" on elevated CMD to check if everything is working
  
- -you can download the project, compilte and run it or simply download file m3u8.jar and run it
+ -you can download the project, compile and run it or simply download file m3u8.jar and run it
 
 
 Usage
