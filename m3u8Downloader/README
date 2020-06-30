@@ -6,6 +6,7 @@ Requirements
 
 * java 
 * ffmpeg
+* Windows O.S.
 
 Installation
 =====================================================================
@@ -29,7 +30,7 @@ Usage
 -navigate to the folder where are placed your m3u8 files
 -click open on the folder
 -convert
--the converted files will be placed in the folder of the jar file
+-the converted files will be placed in the folder where the jar file is located
 
 
 Credits
